@@ -1,84 +1,44 @@
-VaultBridge 🛡️🎉
+Apresentação do VaultBridge 🛡️🎉
+O que é o VaultBridge?
+VaultBridge é uma plataforma moderna, segura e intuitiva para a transferência de tokens entre diferentes blockchains. Nossa missão é conectar você às bridges descentralizadas mais confiáveis e auditadas, proporcionando uma experiência transparente e simples, mesmo para quem não tem experiência técnica.
 
-VaultBridge é uma plataforma segura, moderna e intuitiva para transferências de tokens entre blockchains. Criada com foco em facilidade de uso, transparência e confiança, conecta o usuário a bridges descentralizadas auditadas e confiáveis.
+Por que escolher o VaultBridge?
+Facilidade de uso: Interface limpa, clara e responsiva que torna a transferência de ativos digitais rápida e descomplicada.
+Segurança em primeiro lugar: Uso de HTTPS, integração direta com carteiras (Metamask, WalletConnect) e, em breve, autenticação em dois fatores (2FA).
+Confiança: Integração somente com bridges públicas auditadas, garantindo a proteção dos seus ativos.
+Suporte a múltiplas redes: Compatível com Ethereum, Arbitrum, Polygon e outras redes importantes.
+Detecção automática: Identificação automática de tokens e redes suportadas para você operar com tranquilidade.
+Design e tecnologia
 
-🚀 Visão Geral
-
-A VaultBridge tem como objetivo facilitar a vida de quem precisa transferir ativos digitais entre redes blockchain diferentes, como Ethereum, Arbitrum, Polygon, entre outras. Nossa interface foi projetada para que qualquer pessoa, mesmo sem experiência técnica, consiga utilizar com segurança e praticidade.
-
-🧹 Funcionalidades Principais
-
-✅ Interface limpa, clara e responsiva
-
-🔐 Segurança com uso de HTTPS, 2FA (em breve) e interação direta com carteiras
-
-🌐 Integração com bridges auditadas como Arbitrum Bridge, Stargate, etc.
-
-🤖 Detecção automática de tokens e redes suportadas
-
-🎨 Design baseado nas cores:
-
-Azul escuro (#003366) — confiança e estabilidade
-
-Cinza prateado (#C0C0C0) — modernidade e tecnologia
-
-Branco (#FFFFFF) — leveza e clareza visual
-
-🔧 Tecnologias Utilizadas
+Tecnologias utilizadas:
 
 Frontend: Next.js (React)
-
 Estilo: TailwindCSS
-
 Deploy: Vercel
-
-Integrações blockchain: Web3, Ethers.js, bridges descentralizadas
-
-🛠️ Como Rodar Localmente
-
-# Clone o repositório
-https://github.com/retoso/VaultBridge.git
-
-# Acesse a pasta do projeto
-cd VaultBridge
-
-# Instale as dependências
-npm install
-
-# Rode localmente
-npm run dev
-
-Abra http://localhost:3000 no navegador.
-
-🚪 Medidas de Segurança
-
-❌ Nunca armazenamos chaves privadas
-
-✔️ Integrações apenas com bridges públicas e auditadas
-
-🔒 Todas as conexões feitas via HTTPS e conexão direta com carteiras (Metamask, WalletConnect)
-
-⚠️ Em breve: sistema de autenticação em dois fatores (2FA)
-
-📊 Código aberto para revisão comunitária e transparência
-
-🚪 Experiência do Usuário
-
+Integrações blockchain: Web3, Ethers.js e bridges descentralizadas
+Experiência do usuário
 Interface adaptada para dispositivos móveis
-
-Painel de progresso da transação
-
+Painel de progresso para acompanhar suas transações
 Validações em tempo real para evitar erros comuns
-
-Feedback visual e textual amigável
-
-🤝 Contribuições
-
-Contribuições são bem-vindas! Abra uma issue com sugestões ou envie um pull request.
-
-📄 Licença
+Feedback visual e textual amigável para garantir tranquilidade durante o uso
+Segurança
+Nunca armazenamos suas chaves privadas
+Conexões feitas via HTTPS e comunicação direta com sua carteira
+Código aberto para revisão comunitária, garantindo transparência
+Como começar
+Clone o repositório:
+https://github.com/retoso/VaultBridge.git
+Acesse a pasta do projeto:
+cd VaultBridge
+Instale as dependências:
+npm install
+Rode localmente:
+npm run dev
+Abra no navegador:
+http://localhost:3000
+Contribuições e licença
+Contribuições são muito bem-vindas! Abra uma issue ou envie um pull request para ajudar a melhorar o VaultBridge.
 
 Este projeto está licenciado sob a MIT License.
 
-VaultBridge — "Segurança e Conexão para Suas Transações"
-
+VaultBridge — Segurança e Conexão para Suas Transações
